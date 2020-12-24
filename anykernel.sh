@@ -4,16 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Stormbreaker-r1 kernel for Realme 3 Pro
+kernel.string= kernel for Redmi K30 5G
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX1851
-device.name2=rmx1851
-device.name3=Realme 3 Pro
-device.name4=realme 3 pro
-supported.versions=10
+device.name1=picasso
+device.name2=Picasso
 '; } # end properties
 
 # shell variables
