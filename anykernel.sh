@@ -5,7 +5,7 @@
 # begin properties
 properties() { '
 kernel.string= kernel for Redmi K30 5G
-do.devicecheck=1
+do.devicecheck=0
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
